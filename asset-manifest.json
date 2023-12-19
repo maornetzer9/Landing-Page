@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef990a09.css",
+    "main.js": "/static/js/main.620c3bbe.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/Description-Background-Male.png": "/static/media/Description-Background-Male.70f678a534e9da5e53f7.png",
+    "static/media/Opinion-Background.png": "/static/media/Opinion-Background.f4eaa734ff21d5a2922b.png",
+    "static/media/background.png": "/static/media/background.fb0103014288bca70e1e.png",
+    "static/media/Contact-Us-Background.png": "/static/media/Contact-Us-Background.2bd426e60883d2f6077a.png",
+    "static/media/Description-Background-Female.png": "/static/media/Description-Background-Female.e93086ecc5caae2209eb.png",
+    "static/media/Map-location.png": "/static/media/Map-location.f9f603552eddbd549088.png",
+    "static/media/Exercises-3.png": "/static/media/Exercises-3.f55e716134f7cd561c22.png",
+    "static/media/Exercises-2.png": "/static/media/Exercises-2.95280ecae5f89d39ddb3.png",
+    "static/media/Exercises-1.png": "/static/media/Exercises-1.bcc6a2f3a6f355400f8c.png",
+    "static/media/trainer-background-opinion.png": "/static/media/trainer-background-opinion.85f4de2c14d91c28a259.png",
+    "static/media/user-image-2.png": "/static/media/user-image-2.e9b801e0938f0a98e17c.png",
+    "static/media/user-image-1.png": "/static/media/user-image-1.c115c8a8754c6058a688.png",
+    "index.html": "/index.html",
+    "main.ef990a09.css.map": "/static/css/main.ef990a09.css.map",
+    "main.620c3bbe.js.map": "/static/js/main.620c3bbe.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef990a09.css",
+    "static/js/main.620c3bbe.js"
+  ]
+}
