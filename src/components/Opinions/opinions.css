@@ -1,0 +1,13 @@
+#opinions_background_container
+{
+    width: 100%;
+    background-image: url('../../assets//backgrounds//Opinion-Background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: column;
+    height: 1500px;
+    gap: 150px;
+}

@@ -1,0 +1,39 @@
+#opinion_container
+{
+    border: 1px solid #386683;
+    background-image: url('../../assets//backgrounds/trainer-background-opinion.png');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+#opinion_content_container
+{
+    display: flex;
+    height: 150px;
+    width: 100%;
+    align-items: center;
+    margin-left: 30px;
+    gap: 20px;
+}
+
+#opinion_header_container
+{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 100%;
+}
+
+#opinion_text_container
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#opinion_rating_container
+{
+    display: inline-flex;
+}

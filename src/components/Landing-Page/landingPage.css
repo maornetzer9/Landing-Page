@@ -1,0 +1,38 @@
+#contentBoxContainer 
+{
+    display: flex;
+    justify-content: center;
+    background-color: #031927;
+    height: 650px;
+}
+
+#contentBox_image
+{
+    border:1px solid #386683;
+}
+
+#contentBox_image_3
+{
+    background-color: red;
+    height: 650px;
+}
+
+@media screen and (max-width: 768px) {
+
+        #contentBoxContainer
+        {
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            gap: 20px;
+            margin: 50px;
+        }
+
+        #contentBox_image
+        {
+            position: absolute;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+}

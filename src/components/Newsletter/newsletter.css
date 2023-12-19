@@ -1,0 +1,66 @@
+#newsletter_container
+{
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    top: 50%;
+    width: 100%;
+}
+
+
+#newsletter_inner_container
+{
+    width: 80%;
+    display: flex;
+}
+
+#email_button_icon_container
+{
+    height: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D60F2B;
+    opacity: 0.8;
+}
+
+.social_media_logo
+{
+    height: 40px;
+    width: 40px;
+    border: 1px solid #386683;
+}
+@media screen and (max-width: 768px) {
+
+    #newsletter_container
+    {
+        flex-direction: column !important;
+    }
+
+    #newsletter_social_icons
+    {
+        display: flex;
+        justify-content: center;
+    }
+
+    #email_button_icon_container
+    {
+        display: flex;
+    }
+
+    .newsletter_input_email
+    {
+        width: 300px !important;
+    }
+
+    #newsletter_input_container
+    {
+        display: flex;
+        justify-content: center;
+    }
+
+    #newsletter_input_inner_container 
+    {
+        margin-left: 220px;
+    }
+}

@@ -1,0 +1,11 @@
+#footer_container_background
+{
+    height: 100px;
+    background-image: url('../../assets//backgrounds/background-shadow.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+}

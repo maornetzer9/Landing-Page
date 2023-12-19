@@ -1,0 +1,33 @@
+#navbar_container 
+{
+    width: 100%;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: space-between;
+    top: 0;
+}
+
+#icons_container 
+{
+    display: flex;
+    height: 100px;
+    margin-left: 50px;
+}
+
+#navigation_container 
+{
+    display: flex;
+    margin: 50px;
+    gap: 20px;
+}
+
+#text_icon_2 
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 20%;
+    gap: 1150px;
+}
